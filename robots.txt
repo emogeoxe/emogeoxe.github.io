@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emogeoxe.github.io/AZS/sitemap_index.txt
+Sitemap: https://emogeoxe.github.io/PvI/sitemap_index.txt
+Sitemap: https://emogeoxe.github.io/WCx/sitemap_index.txt
+Sitemap: https://emogeoxe.github.io/egn/sitemap_index.txt
